@@ -13,3 +13,6 @@ Why 6 clusters ?
 We need to divide 24 periods in a day into clusters, and based on the scatter plot it was apparant that atleast 3 clusters will be there to get better clustering output. Also we cannot have large number of clusters as it will make the study more cumbersome. SO optimal number of clusters was decided. 
 
 
+The file dict_holi and dict_week contains the electricity usage data for holiday/weekend and weekday.
+The file kwh_byhour is the main data file. 
+The file kwh_byhour_calculation is the file which contains calculations of demand factor.
